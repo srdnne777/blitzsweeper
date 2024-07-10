@@ -1,5 +1,4 @@
 /*
-Name: Saisrikara Dinne
 Project name: Minesweeper (app, main, res, sweeper)
 Date: 2024-04-15
 Purpose: GUI based minesweeper game, with difficulties.
